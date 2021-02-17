@@ -1,0 +1,8 @@
+ls -al
+wc temp.c
+whoami
+touch newfile.c
+cp temp.c newfile.c
+diff prog.c newfile.c
+rm temp.c
+gcc newfile.c -o newfile.out
