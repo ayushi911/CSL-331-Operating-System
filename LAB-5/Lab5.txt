@@ -1,0 +1,4 @@
+# IO redirections in a shell.
+
+In the existing interactive shell made in assignment
+ 4 add the io redirection feature.
