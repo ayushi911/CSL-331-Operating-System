@@ -7,5 +7,5 @@ In the existing interactive shell made in assignment
 2. Output
 3. Input output both
 4. Multiple pipes with output
-5. Multiple pipes simultaneously
+5. Multiple pipes simultaneously used
 
