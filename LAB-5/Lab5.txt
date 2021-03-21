@@ -3,8 +3,8 @@
 In the existing interactive shell made in assignment
  4 add the io redirection feature. <br>
 
-1. Input
-2. Output
+1. Input redirection
+2. Output redirection
 3. Input output both
 4. Multiple pipes with output
 5. Multiple pipes simultaneously used
